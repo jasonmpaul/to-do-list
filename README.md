@@ -1,11 +1,9 @@
-# to-do-list
+# To Do List App
 
-### features
-* input box for free-text to do items.
-* icon to add to do items to running list.
-* on-click event for add icon, create item in list.
-* running list of all to do items.
-* for each item in list, completed icon.
-* for each item in list, delete icon.
-* on-click event for completed icon, strikethrough text for list item.
-* on-click event for delete icon, remove list item.
+### Project Specification:
+* Create input field for entering tasks.
+* Create button to append item to list.
+* Create button for marking the status of list item complete.
+* Create button for removing items from the list.
+* Create button for resetting to do list.
+ 
