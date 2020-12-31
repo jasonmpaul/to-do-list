@@ -1,6 +1,5 @@
 # Tasker App
 ## Tasker is a basic to-do list application.
----
 ### Project Specification
 * create a text field for users to input various tasks.
 * create a contained button which appends data to a running list.
